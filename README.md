@@ -1,5 +1,5 @@
 ##### How run server:
 1. npm i
-2. npm run
+2. npm start
 
-[site]: localhost:3000
+[local site]: http://localhost:3000
