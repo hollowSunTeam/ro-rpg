@@ -2,4 +2,4 @@
 1. npm i
 2. npm start
 
-[local site]: http://localhost:3000
+[localhost:3000](http://localhost:3000)
